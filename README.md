@@ -1,3 +1,3 @@
 # TestWebApplication
 
-This is a test application for .NET Core.
+This is a test application .
