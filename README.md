@@ -1,3 +1,3 @@
 # TestWebApplication
 
-This is a test application uiuiui .
+This is a test application .
